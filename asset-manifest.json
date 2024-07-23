@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Lakshiga/blogapp/static/css/main.e6c13ad2.css",
+    "main.js": "/Lakshiga/blogapp/static/js/main.939747fe.js",
+    "static/js/453.ede2c593.chunk.js": "/Lakshiga/blogapp/static/js/453.ede2c593.chunk.js",
+    "static/media/data structure.jpg": "/Lakshiga/blogapp/static/media/data structure.54672a80c44232741282.jpg",
+    "static/media/javascript.jpeg": "/Lakshiga/blogapp/static/media/javascript.425fa927c5719e860d4e.jpeg",
+    "index.html": "/Lakshiga/blogapp/index.html",
+    "main.e6c13ad2.css.map": "/Lakshiga/blogapp/static/css/main.e6c13ad2.css.map",
+    "main.939747fe.js.map": "/Lakshiga/blogapp/static/js/main.939747fe.js.map",
+    "453.ede2c593.chunk.js.map": "/Lakshiga/blogapp/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.939747fe.js"
+  ]
+}
